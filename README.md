@@ -1,5 +1,6 @@
-# CircleProgressBar
-自定义灯光亮度调节  
+## 自定义灯光亮度调节 ##
+![](https://github.com/kaikaifly/CircleDotProgressBar/blob/master/GIF.gif)  
+使用：
 
     <com.dukai.circleprogressbar.CircleProgressBar
 	    android:id="@+id/CircleProgressBar"
