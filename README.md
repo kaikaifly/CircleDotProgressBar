@@ -2,7 +2,7 @@
 ![](https://github.com/kaikaifly/CircleDotProgressBar/blob/master/GIF.gif)  
 使用：
 
-    <com.dukai.circleprogressbar.CircleProgressBar
+    <com.dukai.circleprogressbar.CircleDotProgressBar
 	    android:id="@+id/CircleProgressBar"
 	    android:layout_width="200dp"
 	    android:layout_height="200dp"
