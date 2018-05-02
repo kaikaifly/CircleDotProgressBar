@@ -27,7 +27,7 @@ public class CircleDotProgressBar extends View {
     private int firstColor;
     private int strokeWidth;
     private int dotCount;
-    private int currentCount = 3;
+    private int currentCount;
     private int secondColor;
     private int gapSize;
     private int midTextSize;
