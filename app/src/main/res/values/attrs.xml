@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="circleProgressBar">
+        <attr name="strokeWidth" format="integer" />
+        <attr name="firstColor" format="color" />
+        <attr name="secondColor" format="color" />
+        <attr name="dotCount" format="integer" />
+        <attr name="gapSize" format="integer" />
+        <attr name="midTextSize" format="integer" />
+        <attr name="midTextColor" format="color" />
+    </declare-styleable>
+</resources>
